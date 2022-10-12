@@ -3,7 +3,7 @@ import React from 'react'
 const about = () => {
   return (
     <div>
-       My name is Jatin Raj Saini
+      This is the About Page
     </div>
   )
 }
